@@ -1,3 +1,4 @@
+---------Project 1 Completed ------------
 # 🧮 Java Calculator App
 
 A basic calculator application developed using Java as part of the Micro IT India Internship. This app performs fundamental arithmetic operations such as addition, subtraction, multiplication, and division through a graphical user interface (GUI).
