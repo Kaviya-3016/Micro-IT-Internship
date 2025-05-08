@@ -6,8 +6,8 @@ A basic calculator application developed using Java as part of the Micro IT Indi
 
 This project is aimed at demonstrating the use of core Java concepts and GUI programming using Swing or AWT.
 
-✅ Internship Project Title: *Project 1 - Calculator*  
-🎓 Internship**: Micro IT India Internship 2025
+✅ Internship Project Title: Project 1 - Calculator  
+🎓 Internship: Micro IT India Internship 2025
 
 ## 🎯 Features
 
